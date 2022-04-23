@@ -1,1 +1,12 @@
-
+{
+  "ClothingPiece":
+  [
+    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {},
+    {},
+    {},
+    {}
+  ],
+  "Status":"OK"
+}
