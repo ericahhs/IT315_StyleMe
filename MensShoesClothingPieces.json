@@ -1,12 +1,8 @@
 {
   "ClothingPiece":
   [
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"}
+    {"clothingType":"Sneakers","clothingWebsite":"https://www2.hm.com/en_us/productpage.1034026004.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/sneakers.jpg"},
+    {"clothingType":"Flip Flops","clothingWebsite":"https://www.walmart.com/ip/NORTIV-8-Mens-Flip-Flops-Beach-Sandals-Lightweight-EVA-Sole-Comfort-Thongs-181111M-COFFEE-Size-15/557150368?athbdg=L1400","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/flipflops.jpeg"}
   ],
   "Status":"OK"
 }
