@@ -1,12 +1,10 @@
 {
   "ClothingPiece":
   [
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"}
+    {"clothingType":"Short Sleeves","clothingWebsite":"https://www2.hm.com/en_us/productpage.0624684017.html","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"clothingType":"Hoodie","clothingWebsite":"https://www2.hm.com/en_us/productpage.1031420007.html","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"clothingType":"Polo Shirt","clothingWebsite":"shttps://www2.hm.com/en_us/productpage.1047890002.html","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"clothingType":"Tank Top","clothingWebsite":"https://www2.hm.com/en_us/productpage.0881698002.html","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"}
   ],
   "Status":"OK"
 }
