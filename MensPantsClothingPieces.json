@@ -1,12 +1,10 @@
 {
   "ClothingPiece":
   [
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"}
+    {"clothingType":"Jeans","clothingWebsite":"https://www2.hm.com/en_us/productpage.0690449036.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/jeans.jpg"},
+    {"clothingType":"Shorts","clothingWebsite":"https://www2.hm.com/en_us/productpage.1037593003.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/shorts.jpg"},
+    {"clothingType":"Sweatpants","clothingWebsite":"https://www2.hm.com/en_us/productpage.0898045002.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/sweatpants.jpg"},
+    {"clothingType":"Khakis","clothingWebsite":"https://www2.hm.com/en_us/productpage.1019838002.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/khakis.jpg"}
   ],
   "Status":"OK"
 }
