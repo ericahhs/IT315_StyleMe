@@ -1,12 +1,11 @@
 {
   "ClothingPiece":
   [
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"}
+    {"clothingType":"Long Sleeves","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"clothingType":"Short Sleeves","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"clothingType":"Hoodie","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"clothingType":"Tank Top","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
+    {"clothingType":"Turtleneck","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"}
   ],
   "Status":"OK"
 }
