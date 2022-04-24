@@ -1,11 +1,19 @@
 {
-  "MenShirts":
+  "WomenShirts":
   [
     {"clothingType":"Long Sleeves","clothingWebsite":"https://www2.hm.com/en_us/productpage.1003438006.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/longsleevesW.jpg"},
     {"clothingType":"Short Sleeves","clothingWebsite":"https://www2.hm.com/en_us/productpage.0951378047.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/shortsleevesW.jpg"},
     {"clothingType":"Hoodie","clothingWebsite":"https://www2.hm.com/en_us/productpage.1031490002.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/hoodieW.jpg"},
     {"clothingType":"Tank Top","clothingWebsite":"https://www2.hm.com/en_us/productpage.0882925002.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/tanktopW.jpg"},
     {"clothingType":"Turtleneck","clothingWebsite":"https://www2.hm.com/en_us/productpage.1028966007.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/turtleneck.jpg"}
+  ],
+  "WomenPants":
+  [
+    {"clothingType":"Jeans","clothingWebsite":"https://www2.hm.com/en_us/productpage.1017633003.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/jeansW.jpg"},
+    {"clothingType":"Sweatpants","clothingWebsite":"https://www.nike.com/t/sportswear-essential-womens-oversized-woven-joggers-plus-size-qthbjM/DD5973-010","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/sweatpantsW.png"},
+    {"clothingType":"Shorts","clothingWebsite":"https://www.hollisterco.com/shop/us/p/ultra-high-rise-ripped-dark-wash-denim-mom-short-48853823?seq=08&utm_source=googleshopping&adpos=&scid=scplp650534371&sc_intid=650534371&cmp=PDS:EVG20:HCo:D:USCA:X:GGL:X:SHOP:X:X:X:X:x:SC+Shopping+-+Mobile_All+Products_PRODUCT_GROUP&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAph0afM22Q79xMKQgIq4hw8haZkB18SNjl18E7ml3nwUqsAr2x00g4aAocQEALw_wcB&gclsrc=aw.ds","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/shortsW.png"},
+    {"clothingType":"Skirt","clothingWebsite":"https://us.shein.com/us/Girls-1pc-Solid-Flare-Skirt-p-7047487-cat-2011.html?url_from=adplask2111040560441511130&gbraid=0AAAAADm0yO7dKfTO3nm6NqMFtrL9nTnGg&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EArMwTUbjaAQhUj3FNQn9HnaZ-LRWghXw2A8nNQIyRJvSY64Wf1aoCoaApZrEALw_wcB&ref=us&ref=www&rep=dir&rep=dir&ret=mus&ret=us","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/skirt.png"},
+    {"clothingType":"Leggings","clothingWebsite":"https://oldnavy.gap.com/browse/product.do?pid=724503062&modelSize=M&vid=2&tid=onpl000017&kwid=1&ap=7&gbraid=0AAAAAD_AT8sgYm0iMrrL3V2bjYfUFzIsD&gbraid=0AAAAAD_AT8sgYm0iMrrL3V2bjYfUFzIsD&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EApBffoLOOTvxXtwIe3T-5ms_kxt-0SlubDrTJrx2ABQfM6gR77cJS0aAvCKEALw_wcB&gclsrc=aw.ds#pdp-page-content","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/leggings.png"}
   ],
   "Status":"OK"
 }
