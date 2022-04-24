@@ -1,0 +1,11 @@
+{
+  "MenShirts":
+  [
+    {"clothingType":"Long Sleeves","clothingWebsite":"https://www2.hm.com/en_us/productpage.1003438006.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/longsleevesW.jpg"},
+    {"clothingType":"Short Sleeves","clothingWebsite":"https://www2.hm.com/en_us/productpage.0951378047.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/shortsleevesW.jpg"},
+    {"clothingType":"Hoodie","clothingWebsite":"https://www2.hm.com/en_us/productpage.1031490002.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/hoodieW.jpg"},
+    {"clothingType":"Tank Top","clothingWebsite":"https://www2.hm.com/en_us/productpage.0882925002.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/tanktopW.jpg"},
+    {"clothingType":"Turtleneck","clothingWebsite":"https://www2.hm.com/en_us/productpage.1028966007.html","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/turtleneck.jpg"}
+  ],
+  "Status":"OK"
+}
