@@ -1,12 +1,8 @@
 {
   "ClothingPiece":
   [
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"},
-    {"clothingType":"something","clothingWebsite":"some website","clothingImage":"https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/oldrag.jpg"}
+    {"clothingType":"Sneakers","clothingWebsite":"https://www.kohls.com/product/prd-2375536/nike-tanjun-womens-athletic-shoes.jsp?skuid=99863562&CID=shopping30&utm_campaign=WOMENS%20ATHLETIC%20SHOE&utm_medium=CSE&utm_source=google&utm_product=99863562&utm_campaignid=9836151818&gbraid=0AAAAADytpHaV9ni65pI3B9quRjYa8doap&gbraid=0AAAAADytpHaV9ni65pI3B9quRjYa8doap&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EAr9j91YnTzAM4ERUEFKN790Ghbw0XjHNt1lhA0cPcQiVhP4dLVrnScaAr1LEALw_wcB&gclsrc=aw.ds","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/sneakersW.png"},
+    {"clothingType":"Flip Flops","clothingWebsite":"https://www.walmart.com/ip/Soda-Shoes-Women-Flip-Flops-Basic-Plain-Slippers-Thongs-Sandals-Strap-Casual-Beach-ELLA-S-White-7-5/547070539?gbraid=0AAAAADmfBIpi2gWIh-85QcOW5bRkjbx34&wmlspartner=wlpa&selectedSellerId=7398&&adid=22222222228355938500&wl0=&wl1=g&wl2=m&wl3=442112672792&wl4=pla-916963683578&wl5=9008130&wl6=&wl7=&wl8=&wl9=pla&wl10=117071713&wl11=online&wl12=547070539&veh=sem&gbraid=0AAAAADmfBIpi2gWIh-85QcOW5bRkjbx34&gclid=Cj0KCQiAmpyRBhC-ARIsABs2EArHbhLQu5kTZOW00NS1JxmxGyv_A9rRsfnyJLrCyUI0AFEyvV7xmF0aAvEGEALw_wcB&gclsrc=aw.ds","clothingImage":"https://raw.githubusercontent.com/ericahhs/IT315_StyleMe/main/flipflopsW.jpeg"}
   ],
   "Status":"OK"
 }
